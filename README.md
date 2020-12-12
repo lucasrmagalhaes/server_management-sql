@@ -38,11 +38,13 @@ Instalando e Configurando o MYSQL
 - IDE chamado WorkBench
 - Pacote de instalação instala o servidor e browser
 
-https://www.mysql.com/downloads/
-MySQL Community (GPL) Downloads
-Windows: MySQL Installer
-(mysql-installer-web-community-8.0.22.0.msi)
+**Download**
+- https://www.mysql.com/downloads/
+- MySQL Community (GPL) Downloads
+- Windows: MySQL Installer
+- (mysql-installer-web-community-8.0.22.0.msi)
 
-Choosing a Setup Type: Developer Default
-Definir a senha
-Usuário padrão é root
+**Instalação**
+- Choosing a Setup Type: Developer Default
+- Definir a senha
+- Usuário padrão é root
