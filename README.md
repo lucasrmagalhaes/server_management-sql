@@ -46,11 +46,12 @@
 
 #### Tipos de SQL Server: <br>
 Nuvem: AWS, Google e Azure. 
-SQL Server Edge - Nuvem Azure - Pequenos volumes de dados.
+- SQL Server Edge - Nuvem Azure - Pequenos volumes de dados.
 
 Windows, Linux e Docker. <br>
 - SQL Server Express - Comercial - Limitada (Free);
 - SQL Development - Não pode ser usada comercialmente (Free); e 
 - SQL Server Enterprise - Comercial de larga escala.
+- SQL Server On Premises - Conjunto de soluções da Microsoft para rodar na rede local da empresa.
 
 SQL Server Management Studio
