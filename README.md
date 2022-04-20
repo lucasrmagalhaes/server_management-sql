@@ -58,3 +58,6 @@ SQL Server Management Studio
 
 #### Instalando o SQL Server
 * [SQL - Desenvolvedor](https://go.microsoft.com/fwlink/?linkid=866662)
+
+#### Instalando o SQL Server Management Studio
+* [SSMS](https://aka.ms/ssmsfullsetup)
