@@ -43,3 +43,14 @@
 - 2016 - Somente suporte a 64 bits;
 - 2017 - Suporte a Linux; e
 - 2019 - Melhorias pontuais nos módulos do SQL Server além de Big Data Clusters.
+
+#### Tipos de SQL Server: <br>
+Nuvem: AWS, Google e Azure. 
+SQL Server Edge - Nuvem Azure - Pequenos volumes de dados.
+
+Windows, Linux e Docker. <br>
+- SQL Server Express - Comercial - Limitada (Free);
+- SQL Development - Não pode ser usada comercialmente (Free); e 
+- SQL Server Enterprise - Comercial de larga escala.
+
+SQL Server Management Studio
