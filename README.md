@@ -25,3 +25,21 @@
 - DDL - Data Definition Language
 - DML - Data Manipulation Language
 - DCL - Data Control Language
+
+#### História do Microsoft SQL Server:
+- 1988 - Adota o Sybase no Sistema Operacional Windows NT;
+- 1994 - Separação entre a Sybase e Microsoft;
+- 1995 - Surgimento da versão 6.0 com mecanismos de replicação e adm centralizada;
+- 1996 - Surgimento da 6.5 com melhorias significativas na performance;
+- 1997 - Surgimento da Enterprise 6.5 voltado a aplicações empresariais de grande porte;
+- 1998 - Surgimento da versão 7.0 onde o software foi completamente reescrito;
+- 2000 - Lançamento da versão 2000. Foi o grande salto do SQL Server e passou a levar em conta novos paradigmas usados até hoje;
+- 2003 - Versão 64 bits da versão 2000 para utilizar computadores mais potentes;
+- 2005 - Versão 2005 com o codinome Yukon. Casos de sucesso usando grandes volumes;
+- 2008 - Lançamento do módulo Business Inteligence;
+- 2008 R2 - Aprimoramento do 2008;
+- 2012 - Instâncias de Cluster de Failover e dados geográficos;
+- 2014 - Suporte a datacenters e ambientes virtuais;
+- 2016 - Somente suporte a 64 bits;
+- 2017 - Suporte a Linux; e
+- 2019 - Melhorias pontuais nos módulos do SQL Server além de Big Data Clusters.
