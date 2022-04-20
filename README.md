@@ -55,3 +55,6 @@ Windows, Linux e Docker. <br>
 - SQL Server On Premises - Conjunto de soluções da Microsoft para rodar na rede local da empresa.
 
 SQL Server Management Studio
+
+#### Instalando o SQL Server
+* [SQL - Desenvolvedor](https://go.microsoft.com/fwlink/?linkid=866662)
