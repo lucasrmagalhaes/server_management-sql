@@ -1,5 +1,6 @@
 ### SQL Server: introdução ao SQL com Microsoft SQL Server 2019
 - SQL significa Structure Query Language, literalmente a linguagem padrão para realizar queries.
+- Linguagem de Controle de Dados (ou DCL, de Data Cntrol Language) é o grupo de comandos dentro da linguagem SQL usada para controlar o acesso aos dados em bancos de dados.
 
 #### História do SQL - 1970 até 1990:
 - Banco de dados Sequenciais;
