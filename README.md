@@ -19,3 +19,8 @@
 #### Desvantagens:
 - Falta de criatividade; e
 - Falta de estruturação.
+
+#### Comandos:
+- DDL - Data Definition Language
+- DML - Data Manipulation Language
+- DCL - Data Control Language
